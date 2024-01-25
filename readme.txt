@@ -1,15 +1,15 @@
-=== __TRIBE_BASE__ Extension: __TRIBE_NAME__ ===
+=== Event Tickets Extension: Show Additional Field on Attendee Page ===
 Contributors: theeventscalendar
 Donate link: https://evnt.is/29
-Tags: events, calendar
-Requires at least: 4.9
-Tested up to: 5.7
-Requires PHP: 5.6
-Stable tag: __TRIBE_VERSION__
+Tags: events, calendar, tickets, rsvp
+Requires at least: 6.2
+Tested up to: 6.4.2
+Requires PHP: 7.4
+Stable tag: 1.0.0
 License: GPL version 3 or any later version
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-__TRIBE_DESCRIPTION__
+Show an Additional Field value of an event on the Attendees page and the exported Attendee list.
 
 == Description ==
 
@@ -37,6 +37,6 @@ We're always interested in your feedback and our [Help Desk](https://support.the
 
 == Changelog ==
 
-= [1.0.0] YYYY-MM-DD =
+= [1.0.0] 2024-01-25 =
 
 * Initial release
