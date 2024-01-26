@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Event Tickets Extension: Show Additional Field on Attendee Page
- * Plugin URI:        show-additional-field-on-attendee-page
+ * Plugin URI:
  * GitHub Plugin URI: https://github.com/mt-support/tec-labs-show-additional-field-on-attendee-page
  * Description:       Show an Additional Field value of an event on the Attendees page and the exported Attendee list.
  * Version:           1.0.0
